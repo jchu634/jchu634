@@ -3,7 +3,7 @@
 ### I'm a Computer Science student at the University of Auckland
 - 🧠 I am currently learning **Machine Learning, Backend Technologies and Video Encoding**
 - 📫 You can reach me at:  
-    - 📧 [jchu634@keshuac.com](jchu634@keshuac.com)
+    - 📧 [jchu634@keshuac.com](mailto:jchu634@keshuac.com)
     - 🐦 [@crocfun2](https://twitter.com/crocfun2)
 
 ### Languages and Frameworks:
