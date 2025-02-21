@@ -17,7 +17,7 @@
 <a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" width="40" height="40"/></a>
 <a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a>
 <a href="https://www.sqlite.org/index.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/></a>
-<a href="https://jrsoftware.org/isinfo.php"><img src="https://avatars.githubusercontent.com/u/1092483?s=200&v=4" alt="innosetup" width="40" height="40"/> </a>
+<a href="https://jrsoftware.org/isinfo.php"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Inno_Setup_icon.png" alt="innosetup" width="40" height="40"/> </a>
 <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/fa017b84f7fce8cd0118b4967dc163f13ac76035/icons/visualbasic.svg" alt="Visual Basic" width="40" height="40"/></a>
 <a href="https://unity.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/></a>
 
