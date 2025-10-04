@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### I'm Joshua, a Graduate Fullstack Software Developer.
-- I made OPFS-Browser, Subtext, Inkproof and Loop-desktop
+- I made OPFS-Browser, Subtext, Inkproof, Loopy-desktop and HA-Components
 - I sometimes write blogposts <a href="https://www.keshuac.com/blog"> here.</a>
 - I am currently learning **NPU and GPU computing and Video Encoding**
 - You can reach me at:  
