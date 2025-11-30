@@ -61,36 +61,6 @@
 </a>
 
 
-<table>
-  <tr>
-    <td>
-      <picture>
-    <source
-        srcset="https://github-readme-stats.vercel.app/api?username=jchu634&theme=radical&show_icons=true&rank_icon=github"
-        media="(prefers-color-scheme: dark)"
-    />
-    <source
-        srcset="https://github-readme-stats.vercel.app/api?username=jchu634&show_icons=true&rank_icon=github"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=jchu634&show_icons=true&rank_icon=github" />
-    </picture>
-    </td>
-    <td>
-      <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jchu634&layout=donut&theme=radical"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jchu634&layout=donut"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jchu634&layout=donut" />
-</picture>
-    </td>
-  </tr>
-</table>
 <!--
 **jchu634/jchu634** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
